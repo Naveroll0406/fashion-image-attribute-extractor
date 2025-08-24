@@ -1,0 +1,14 @@
+# Core dependencies
+python-dotenv==1.0.1
+requests==2.31.0
+tqdm==4.66.4
+pandas==2.2.2
+matplotlib==3.9.2
+Pillow==10.4.0
+transformers==4.44.2
+
+# PyTorch - install the version matching your CUDA setup.
+# Example for CUDA 12.1:
+#   pip install torch==2.3.1+cu121 --index-url https://download.pytorch.org/whl/cu121
+# Example for CPU-only:
+#   pip install torch==2.3.1+cpu --index-url https://download.pytorch.org/whl/cpu
