@@ -1,6 +1,7 @@
 # Fashion Attribute Extraction Pipeline (BLIP + Ollama Mistral)
 
 This project integrates **BLIP** (for image captioning) with **Ollama Mistral** (for attribute extraction) to automatically extract **fashion attributes** such as neckline, silhouette, waistline, and sleeves from product images.
+![Yoru](https://github.com/user-attachments/assets/3b67b230-4ec9-4a6e-bd4a-fba5757fb5d0)
 
 ---
 
